@@ -22,7 +22,8 @@
     },
     {
         "name": "MangaDex",
-        "fileName": "https://github.com/nukbodu/configs/blob/main/manga_dex.js",
+        "fileName":"manga_dex.js",
+        "url": "https://github.com/nukbodu/configs/blob/main/manga_dex.js",
         "key": "manga_dex",
         "version": "1.0.0",
         "description": "Account feature is not supported yet."
