@@ -19,5 +19,12 @@
         "url": "https://github.com/nukbodu/configs/blob/main/ikmmh.js",
         "key": "ikmmh",
         "version": "1.0.2"
+    },
+    {
+        "name": "MangaDex",
+        "fileName": "https://github.com/nukbodu/configs/blob/main/manga_dex.js",
+        "key": "manga_dex",
+        "version": "1.0.0",
+        "description": "Account feature is not supported yet."
     }
 ]
